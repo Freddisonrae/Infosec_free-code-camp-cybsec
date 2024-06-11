@@ -6,8 +6,6 @@ const PORT = process.env.PORT || 3030;
 
 app.use(helmet.hidePoweredBy());
 
-helmet.hidePoweredBy()
-
 
 
 
